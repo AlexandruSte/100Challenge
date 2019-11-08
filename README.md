@@ -1,4 +1,4 @@
-# 100Challenge
+# 100 Days of coding challenge
 
 ### Rules
 1. Starting of 9th of November, every collaborator has to add a solved problem to the respective day.
