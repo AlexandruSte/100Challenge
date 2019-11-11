@@ -4,9 +4,8 @@ def numericals(s):
     res = ''
     for letter in s:
         if letter in dict:
-            res += str(dict[letter] + 1)
             dict[letter] += 1
         else:
-            res += '1'
             dict[letter] = 1
+        res += str(dict[letter])
     return res
