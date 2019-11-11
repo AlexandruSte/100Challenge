@@ -1,3 +1,4 @@
+# https://www.codewars.com/kata/sums-of-parts/train/python
 def parts_sums(ls):
     array_sum = sum(ls)
     sum_list = [array_sum]
