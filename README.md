@@ -10,3 +10,4 @@
 | Day | Stefan Alexandru | Nechifor Georgian | Iacob Eduard |
 | :---: | :---: | :---: | :---: |
 | 1 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 2 | :x: | :heavy_check_mark: | :x: |
