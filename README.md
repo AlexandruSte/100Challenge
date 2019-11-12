@@ -7,6 +7,6 @@
 4. Rules can be added as the challenge goes on.
 
 
-| Day | Stefan Alexandru | Nechifor Georgian |
-| :---: | :---: | :---: |
-| 1 | :white_check_mark: | :white_check_mark: |
+| Day | Stefan Alexandru | Nechifor Georgian | Iacob Eduard |
+| :---: | :---: | :---: | :---: |
+| 1 | :heavy_check_mark: | :heavy_check_mark: | :x: |
