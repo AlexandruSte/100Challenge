@@ -21,6 +21,9 @@ public class SumString {
             }
             temp = aux / 10;
         }
+        if(temp != 0) {
+            return temp + String.valueOf(cRez);
+        }
         return String.valueOf(cRez);
     }
 }
