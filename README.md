@@ -19,4 +19,4 @@
 | 8 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 9 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 10 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 11 | :heavy_check_mark: | :x: |:heavy_check_mark: |
+| 11 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
