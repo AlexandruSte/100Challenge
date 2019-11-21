@@ -9,9 +9,9 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| 1 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 2 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 3 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 4 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 5 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 6 | :heavy_check_mark: | :heavy_check_mark: |  |
@@ -19,4 +19,4 @@
 | 8 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 9 | :heavy_check_mark: | :heavy_check_mark: |  |
 | 10 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 11 | :heavy_check_mark: | :x: | :x: |
+| 11 | :heavy_check_mark: | :x: | |
