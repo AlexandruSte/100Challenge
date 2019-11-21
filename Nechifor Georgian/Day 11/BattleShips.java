@@ -1,4 +1,4 @@
-#https://www.codewars.com/kata/battle-ships-sunk-damaged-or-not-touched/java
+//https://www.codewars.com/kata/battle-ships-sunk-damaged-or-not-touched/java
 
 import java.util.*;
 
