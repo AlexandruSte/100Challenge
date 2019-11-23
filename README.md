@@ -21,4 +21,4 @@
 | 10 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 11 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
 | 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 13 |  | :heavy_check_mark: | :heavy_check_mark: |
+| 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
