@@ -30,4 +30,4 @@
 | 19 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 21 | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
