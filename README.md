@@ -9,26 +9,26 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 4 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 5 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 6 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 7 | :heavy_check_mark: | :x: |  |
-| 8 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 9 | :heavy_check_mark: | :heavy_check_mark: |  |
-| 10 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 11 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
-| 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 14 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 15 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 16 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 17 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 18 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 19 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 22 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| 23 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| December 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| December 2 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
+| December 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 30 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 29 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 28 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 27 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 26 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 25 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 24 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 23 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 22 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 19 | :heavy_check_mark: | :heavy_check_mark: |  |
+| November 18 | :heavy_check_mark: | :heavy_check_mark: |  |
+| November 17 | :heavy_check_mark: | :x: |  |
+| November 16 | :heavy_check_mark: | :heavy_check_mark: |  |
+| November 15 | :heavy_check_mark: | :heavy_check_mark: |  |
+| November 14 | :heavy_check_mark: | :heavy_check_mark: |  |
+| November 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| November 11 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
