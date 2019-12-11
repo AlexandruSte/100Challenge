@@ -10,7 +10,7 @@ Inca 14 zile pana la Craciun <3
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| December 11 | | | :heavy_check_mark: |
+| December 11 | |:heavy_check_mark: | :heavy_check_mark: |
 | December 10 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | December 9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | December 8 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
