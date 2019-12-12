@@ -36,4 +36,54 @@ public class Sorting {
             merge(arr, l, m, r);
         }
     }
+    
+    public void bubbleSort(int[] arr) {
+        int n = arr.length;
+        boolean swapped;
+        for(int i = 0; i < n - 1; i++) {
+            swapped = false;
+            for(int j = 0; j < n - i - 1; j++) {
+                if(arr[j] > arr[j+1]) {
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                    swapped = true;
+                }
+            }
+            if(!swapped) //daca nu s a facut nicio interschimbare in prima iteratie, atunci vectorul e sortat
+                break;
+        }
+    }
+
+    public void insertionSort(int[] arr) {
+        int minIndex;
+        for(int i = 0; i < arr.length; i++) {
+            //get index of minim
+            minIndex = i;
+            for(int j = i+1; j < arr.length; j++) {
+                if(arr[j] < arr[minIndex]) {
+                    minIndex = j;
+                }
+            }
+            //put min on first position of unsorted array
+            int temp = arr[i];
+            arr[i] = arr[minIndex];
+            arr[minIndex] = temp;
+        }
+    }
+
+    public void selectionSort(int[] arr) {
+        int n = arr.length;
+        for(int i = 1; i < n; i++) {
+            //current element
+            int current = arr[i];
+            int j = i - 1;
+            //search for his correct place
+            while(j >= 0 && arr[j] > current) {
+                arr[j+1] = arr[j];
+                j--;
+            }
+            arr[j+1] = current;
+        }
+    }
 }
