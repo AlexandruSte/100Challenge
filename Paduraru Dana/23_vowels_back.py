@@ -47,6 +47,3 @@ def vowel_back(s):
 print(vowel_back('testcase'))
 print(vowel_back('codewars'))
 print(vowel_back('exampletesthere'))
-
-
-def 
