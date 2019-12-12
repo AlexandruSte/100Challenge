@@ -37,3 +37,13 @@ def selection_sort():
         pos = np.where(v == min_nr)[0][0]
         v[i], v[pos] = v[pos], v[i]
         yield v
+
+
+# Insertion Sort
+def insertion_sort():
+    for i in range(1, len(v)):
+        j = i
+        while j > 0 and v[j] < v[j - 1]:
+            v[j - 1], v[j] = v[j], v[j - 1]
+            j -= 1
+            yield v
