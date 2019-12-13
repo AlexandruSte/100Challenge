@@ -7,7 +7,11 @@ class ListNode {
 }
 
 public class Easy {
-    
+    /*
+     * DAY 2
+     *
+     */
+
     //https://leetcode.com/problems/merge-two-sorted-lists/
     private ListNode insertLast(ListNode node, int x) {
         ListNode aux = node;
@@ -45,7 +49,85 @@ public class Easy {
         return rez;
     }
 
-//https://leetcode.com/problems/happy-number/submissions/
+    //https://leetcode.com/problems/linked-list-cycle/
+    public boolean hasCycle(ListNode head) {
+        if (head == null || head.next == null) return false;
+        while (head != null) {
+            if (head.val != Integer.MIN_VALUE)
+                head.val = Integer.MIN_VALUE;
+            else
+                return true;
+
+            head = head.next;
+        }
+        return false;
+    }
+
+    //https://leetcode.com/problems/min-stack/
+    class MinStack {
+        private static final int MAX = 1000;
+        private int top;
+        private int[] a = new int[MAX];
+
+        MinStack() {
+            top = -1;
+        }
+
+        public boolean isEmpty() {
+            return top < 0;
+        }
+
+        //insert last
+        public void push(int x) {
+            if (top >= MAX - 1)
+                return;
+            else {
+                a[++top] = x;
+            }
+        }
+
+        public void pop() {
+            if (top < 0)
+                return;
+            else {
+                int x = a[top--];
+            }
+
+        }
+
+        public int top() {
+            if (top < 0) return -1;
+            return a[top];
+        }
+
+        public int getMin() {
+            if (top < 0) return 0;
+            int minValue = Integer.MAX_VALUE;
+            for (int i = 0; i <= top; i++)
+                minValue = Integer.min(minValue, a[i]);
+            return minValue;
+        }
+    }
+
+    //https://leetcode.com/problems/majority-element/
+    public int majorityElement(int[] nums) {
+        int majority = 0;
+        Map<Integer, Integer> freq = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (freq.containsKey(nums[i])) {
+                freq.put(nums[i], freq.get(nums[i]) + 1);
+            } else
+                freq.put(nums[i], 1);
+        }
+
+        for (Map.Entry<Integer, Integer> e : freq.entrySet()) {
+            if (e.getValue() > nums.length / 2)
+                majority = e.getKey();
+        }
+        return majority;
+    }
+
+    //https://leetcode.com/problems/happy-number/submissions/
     public boolean isHappy(int n) {
         int result = 0;
         int iteration = 0;
@@ -75,6 +157,7 @@ public class Easy {
         }
         return true;
     }
+
     private static int nextPrime(int n) {
         if (n <= 1) return 2;
         boolean found = false;
@@ -87,6 +170,7 @@ public class Easy {
         }
         return prime;
     }
+
     public int countPrimes(int n) {
         int count = (int) IntStream.iterate(2, Easy::nextPrime).limit(n).filter(i -> i < n).count();
         return count;
@@ -110,6 +194,5 @@ public class Easy {
         }
         return true;
     }
-    
-    
 }
+
