@@ -1,3 +1,6 @@
+import java.util.*;
+import java.util.stream.IntStream;
+
 class ListNode {
     int value;
     ListNode next;
@@ -193,6 +196,41 @@ public class Easy {
                 return false;
         }
         return true;
+    }
+    
+    //https://leetcode.com/problems/sum-of-two-integers/
+    public int getSum(int a, int b) {
+        while(b != 0) {
+            int carry = a & b;
+            a = a ^ b;
+            b = carry << 1;
+        }
+        return a;
+    }
+
+    //https://leetcode.com/problems/merge-sorted-array/
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+        int i = 0;
+        int j = 0;
+        int[] arr = new int[n+m];
+        int k = 0;
+        while(i < m && j < n) {
+            if(nums1[i] < nums2[j]) {
+                arr[k++] = nums1[i++];
+            } else
+                arr[k++] = nums2[j++];
+        }
+
+        while(i < m) {
+            arr[k++] = nums1[i++];
+        }
+        while(j < n) {
+            arr[k++] = nums2[j++];
+        }
+
+        for(i = 0; i < arr.length; i++) {
+            nums1[i] = arr[i];
+        }
     }
 }
 
