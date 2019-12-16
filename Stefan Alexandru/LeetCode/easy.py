@@ -18,4 +18,26 @@ def romanToInt(s):
     return number
 
 
-print(romanToInt('III'))
+# print(romanToInt('III'))
+
+
+# https://leetcode.com/problems/min-stack/submissions/
+class MinStack:
+
+    def __init__(self):
+        """
+        initialize your data structure here.
+        """
+        self.vect = []
+
+    def push(self, x: int) -> None:
+        self.vect.append(x)
+
+    def pop(self) -> None:
+        del self.vect[-1]
+
+    def top(self) -> int:
+        return self.vect[-1]
+
+    def getMin(self) -> int:
+        return min(self.vect)
