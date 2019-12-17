@@ -21,6 +21,26 @@ def romanToInt(s):
 # print(romanToInt('III'))
 
 
+# https://leetcode.com/problems/valid-parentheses/
+def isValid(s: str) -> bool:
+    dic = {'(': 0, '{': 0, '[': 0}
+    oppose = {')': '(', '}': '{', ']': '['}
+    last_open = []
+    for paranthesis in s:
+        if paranthesis not in dic:
+            if dic[oppose[paranthesis]] == 0 or last_open[-1] != oppose[paranthesis]:
+                return False
+            del last_open[-1]
+            dic[oppose[paranthesis]] -= 1
+        else:
+            dic[paranthesis] += 1
+            last_open.append(paranthesis)
+    return True if not sum([dic[key] for key in dic]) else False
+
+
+print(isValid("([])"))
+
+
 # https://leetcode.com/problems/min-stack/submissions/
 class MinStack:
 
