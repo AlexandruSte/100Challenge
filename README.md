@@ -10,8 +10,8 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| December 17 |  | :heavy_check_mark: |  |
-| December 16 | :heavy_check_mark: | :heavy_check_mark: |  |
+| December 17 | :heavy_check_mark: | :heavy_check_mark: |  |
+| December 16 | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | December 15 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | December 14 | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | December 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
