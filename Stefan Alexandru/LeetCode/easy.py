@@ -61,3 +61,27 @@ class MinStack:
 
     def getMin(self) -> int:
         return min(self.vect)
+
+
+# https://leetcode.com/problems/merge-two-sorted-lists/
+class ListNode:
+    def __init__(self, x):
+        self.val = x
+        self.next = None
+
+    def mergeTwoLists(self, l1, l2):
+        final = ListNode(0)
+        copy = final
+        while l1 and l2:
+            if l1.val > l2.val:
+                final.next = ListNode(l2.val)
+                l2 = l2.next
+            else:
+                final.next = ListNode(l1.val)
+                l1 = l1.next
+            final = final.next
+        if l1:
+            final.next = l1
+        else:
+            final.next = l2
+        return copy.next
