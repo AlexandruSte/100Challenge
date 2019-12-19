@@ -64,6 +64,7 @@ class MinStack:
 
 
 # https://leetcode.com/problems/merge-two-sorted-lists/
+# https://leetcode.com/problems/linked-list-cycle/submissions/
 class ListNode:
     def __init__(self, x):
         self.val = x
@@ -85,3 +86,11 @@ class ListNode:
         else:
             final.next = l2
         return copy.next
+
+    def hasCycle(self, head):
+        first, second = head, head
+        while first and first.next:
+            first, second = first.next.next, second.next
+            if first is second:
+                return True
+        return False
