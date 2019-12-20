@@ -1,4 +1,5 @@
-class MyHashSet {
+//https://leetcode.com/problems/design-hashset/
+public class MyHashSet {
         int hash;
         int key;
 
