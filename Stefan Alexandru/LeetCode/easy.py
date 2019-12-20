@@ -94,3 +94,11 @@ class ListNode:
             if first is second:
                 return True
         return False
+
+
+# https://leetcode.com/problems/majority-element/submissions/
+def majorityElement(nums):
+    summ = len(nums) / 2
+    for elem in set(nums):
+        if nums.count(elem) > summ:
+            return elem
