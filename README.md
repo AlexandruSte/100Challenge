@@ -13,7 +13,7 @@ Sa intri pe 21 decembrie si sa bifezi ziua de 20 decembrie, e ca si cum i-ai spu
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| December 21 | :heavy_check_mark: | :x: |  :x: |
+| December 21 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
 | December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: Py C7,C8,C9 |
 | December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
 | December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
