@@ -8,6 +8,8 @@
 
 **Inca 7 zile pana la Craciun <3** 🎄
 
+Promit ca lucrez de azi va rog nu ma dati afaraaaa :(((((( -  Dana
+
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
 | December 20 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
