@@ -102,3 +102,15 @@ def majorityElement(nums):
     for elem in set(nums):
         if nums.count(elem) > summ:
             return elem
+
+
+# https://leetcode.com/problems/happy-number/submissions/
+def isHappy(n):
+    nrs = []
+    while n not in nrs:
+        nrs.append(n)
+        n_str = sum([int(digit) ** 2 for digit in str(n)])
+        if n_str == 1:
+            return True
+        n = ''.join(str(n_str))
+    return False
