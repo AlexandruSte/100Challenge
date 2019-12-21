@@ -12,7 +12,7 @@ Promit ca lucrez de azi va rog nu ma dati afaraaaa :(((((( -  Dana
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| December 20 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
+| December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: Py C7,C8,C9 |
 | December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
 | December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 17 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
