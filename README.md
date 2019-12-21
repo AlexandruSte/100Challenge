@@ -10,10 +10,12 @@
 
 Promit ca lucrez de azi va rog nu ma dati afaraaaa :(((((( -  Dana
 Sa intri pe 21 decembrie si sa bifezi ziua de 20 decembrie, e ca si cum i-ai spune profei ca ai uitat tema acasa si i-o aduci abia a doua zi
+E fiindca l-am intrebat mai intai pe Alex ceva
+You two are bullies
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| December 21 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
+| December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: Py C7,C8,C9 |
 | December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
 | December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
