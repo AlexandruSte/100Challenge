@@ -114,3 +114,30 @@ def isHappy(n):
             return True
         n = ''.join(str(n_str))
     return False
+
+
+# https://leetcode.com/problems/valid-anagram/submissions/
+def isAnagram(self, s, t):
+    """
+    :type s: str
+    :type t: str
+    :rtype: bool
+    """
+    letters = {}
+    for letter in s:
+        if letter not in letters:
+            letters[letter] = 1
+        else:
+            letters[letter] += 1
+
+    for letter in t:
+        if letter not in letters:
+            return False
+        else:
+            letters[letter] -= 1
+
+    for letter in letters:
+        if letters[letter] != 0:
+            return False
+
+    return True
