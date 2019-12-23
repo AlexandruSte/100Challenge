@@ -6,10 +6,11 @@
 3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do 100 burpees.
 4. Rules can be added as the challenge goes on.
 
-**Inca 3 zile pana la Craciun <3** 🎄
+**Inca 2 zile pana la Craciun <3** 🎄
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
+| December 22 | :x: | :x: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: Py C7,C8,C9 |
