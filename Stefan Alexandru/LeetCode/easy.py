@@ -161,3 +161,15 @@ def merge(nums1, m, nums2, n):
     while j >= 0:
         nums1[last] = nums2[j]
         last, j = last - 1, j - 1
+
+
+# https://leetcode.com/problems/rotate-array/submissions/
+def rotate(nums, k):
+    """
+    Do not return anything, modify nums in-place instead.
+    """
+    a = [0] * len(nums)
+    for i in range(0, len(nums)):
+        a[(i + k) % len(nums)] = nums[i]
+    for i in range(0, len(nums)):
+        nums[i] = a[i]
