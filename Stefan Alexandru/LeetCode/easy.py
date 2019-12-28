@@ -173,3 +173,23 @@ def rotate(nums, k):
         a[(i + k) % len(nums)] = nums[i]
     for i in range(0, len(nums)):
         nums[i] = a[i]
+
+
+# https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+class TreeNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.left = None
+        self.right = None
+
+    def sortedArrayToBST(self, num):
+        return self.sortedArrayToBSTRecu(num, 0, len(num))
+
+    def sortedArrayToBSTRecu(self, num, start, end):
+        if start == end:
+            return None
+        mid = start + (end - start) / 2
+        node = TreeNode(num[mid])
+        node.left = self.sortedArrayToBSTRecu(num, start, mid)
+        node.right = self.sortedArrayToBSTRecu(num, mid + 1, end)
+        return node
