@@ -11,7 +11,7 @@
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
 | January 2 |  |  |  |
-| December 30 |  | :heavy_check_mark: |  |
+| December 30 |  | :heavy_check_mark: | :heavy_check_mark: Text Extraction |
 | December 29 | :heavy_check_mark: | :x: |  |
 | December 28 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 24 | :heavy_check_mark: | :heavy_check_mark: |  |
