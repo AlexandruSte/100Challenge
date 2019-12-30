@@ -9,8 +9,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-
-
+|
 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
