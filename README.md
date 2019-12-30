@@ -12,8 +12,7 @@
 | December 30 |  | :heavy_check_mark: |  |
 | December 29 | :heavy_check_mark: |  |  |
 | December 28 | :heavy_check_mark: | :heavy_check_mark: |  |
-| December 25 | :heavy_check_mark: |  |  |
-| December 24 | :heavy_check_mark: |  |  |
+| December 24 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
