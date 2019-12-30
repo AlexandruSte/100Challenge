@@ -6,13 +6,14 @@
 3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do 100 burpees.
 4. Rules can be added as the challenge goes on.
 
+<b> Happy New Year! <3 </b>
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-|
-| December 29 | :heavy_check_mark: |  |  |
+| January 2 |  |  |  |
+| December 30 |  | :heavy_check_mark: |  |
+| December 29 | :heavy_check_mark: | :x: |  |
 | December 28 | :heavy_check_mark: | :heavy_check_mark: |  |
-| December 25 | :heavy_check_mark: |  |  |
 | December 24 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
