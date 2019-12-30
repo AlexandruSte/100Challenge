@@ -7,6 +7,8 @@
 4. Rules can be added as the challenge goes on.
 
 
+<b> Happy New Year! <3 </b>
+
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
 | December 30 |  | :heavy_check_mark: |  |
