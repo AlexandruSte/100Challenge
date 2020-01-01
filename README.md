@@ -11,14 +11,14 @@
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
 | January 2 |  |  |  |
-| December 30 |  | :heavy_check_mark: | :heavy_check_mark: Text Extraction |
+| December 30 |  | :heavy_check_mark: | :heavy_check_mark: |
 | December 29 | :heavy_check_mark: | :x: |  |
 | December 28 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 24 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: Py C7,C8,C9 |
+| December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
 | December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
 | December 17 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
