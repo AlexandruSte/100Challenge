@@ -10,7 +10,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| January 3 | :x: | :heavy_check_mark: | :x: |
+| January 3 | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | January 2 | :x: | :heavy_check_mark: | :x: |
 | | HOLY | DAYS | 🎄 |
 | December 24 | :heavy_check_mark: | :heavy_check_mark: | :x: |
