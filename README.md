@@ -12,7 +12,7 @@
 | :---: | :---: | :---: | :---: |
 | January 3 | :x: | :heavy_check_mark: | :x: |
 | January 2 | :x: | :heavy_check_mark: | :x: |
-| | HOLYDAYS 🎄 | |
+| | HOLYDAYS 🎄 |
 | December 24 | :heavy_check_mark: | :heavy_check_mark: |  |
 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  🎄 |
 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
