@@ -8,6 +8,8 @@
 
 <b> Happy New Year! <3 </b>
 
+<b> Happy New Year! <3 </b>
+
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
 | January 6 | :heavy_check_mark: | :x: | :x: |
