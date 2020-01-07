@@ -33,48 +33,50 @@ class Solution {
 
 
 //solutia initiala
+class MergeKLists {
+        private ListNode insertLast(ListNode root, int val) {
+            if (root == null) return new ListNode(val);
+            ListNode aux = root;
+            while (aux.next != null) {
+                aux = aux.next;
+            }
+            aux.next = new ListNode(val);
 
-private ListNode insertLast(ListNode root, int val) {
-        if(root == null) return new ListNode(val);
-        ListNode aux = root;
-        while(aux.next != null) {
-            aux = aux.next;
+            return root;
         }
-        aux.next = new ListNode(val);
 
-        return root;
-    }
+        public ListNode merge(ListNode node, ListNode root) {
+            ListNode aux = node;
+            ListNode temp = root;
+            ListNode ret = null;
+            while (aux != null && temp != null) {
+                if (aux.val > temp.val) {
+                    ret = insertLast(ret, temp.val);
+                    temp = temp.next;
+                } else {
+                    ret = insertLast(ret, aux.val);
+                    aux = aux.next;
+                }
+            }
 
-    public ListNode merge(ListNode node, ListNode root) {
-        ListNode aux = node;
-        ListNode temp = root;
-        ListNode ret = null;
-        while(aux != null && temp != null) {
-            if(aux.val > temp.val) {
-                ret = insertLast(ret, temp.val);
-                temp = temp.next;
-            } else {
+            while (aux != null) {
                 ret = insertLast(ret, aux.val);
                 aux = aux.next;
             }
+
+            while (temp != null) {
+                ret = insertLast(ret, temp.val);
+                temp = temp.next;
+            }
+
+            return ret;
         }
 
-        while(aux != null) {
-            ret = insertLast(ret, aux.val);
-            aux = aux.next;
+        public ListNode mergeKLists(ListNode[] lists) {
+            ListNode response = null;
+            for (ListNode l : lists) {
+                response = merge(response, l);
+            }
+            return response;
         }
-
-        while(temp != null) {
-            ret = insertLast(ret, temp.val);
-            temp = temp.next;
-        }
-
-        return ret;
-    }
-    public ListNode mergeKLists(ListNode[] lists) {
-        ListNode response = null;
-        for(ListNode l: lists) {
-            response = merge(response, l);
-        }
-        return response;
     }
