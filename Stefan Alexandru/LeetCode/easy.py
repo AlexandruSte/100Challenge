@@ -236,3 +236,17 @@ def halfIsom(self, s, t):
         elif lookup[s[i]] != t[i]:
             return False
     return True
+
+
+# https://leetcode.com/problems/invert-binary-tree/submissions/
+class Solution(object):
+    def invertTree(self, root):
+        """
+        :type root: TreeNode
+        :rtype: TreeNode
+        """
+        if root is not None:
+            root.left, root.right = self.invertTree(root.right), \
+                                    self.invertTree(root.left)
+
+        return root
