@@ -2,6 +2,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Easy {
+    
+    /*
+     * DAY 1
+     *
+     */
 
     //https://leetcode.com/problems/roman-to-integer/
     public int romanToInt(String s) {

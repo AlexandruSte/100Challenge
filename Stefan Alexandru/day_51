@@ -1,0 +1,9 @@
+# https://www.codewars.com/kata/is-integer-array/train/python
+def is_int_array(arr):
+    if arr == None or arr == '':
+        return False
+    for elem in arr:
+        print(type(elem))
+        if type(elem) not in [int, float] or (type(elem) == float and not elem.is_integer()):
+            return False
+    return True
