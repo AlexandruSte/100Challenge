@@ -10,6 +10,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
+| BREAK |  | SESIUNE |  |
 | January 16 | :x: | :heavy_check_mark:|  |
 | January 14 | :x: | :heavy_check_mark:|  |
 | January 13 | :heavy_check_mark: | :heavy_check_mark:|  |
