@@ -10,6 +10,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
+| WE | BACK | BABY | !!! |
 | BREAK |  | SESIUNE |  |
 | January 16 | :x: | :heavy_check_mark:|  |
 | January 14 | :x: | :heavy_check_mark:|  |
