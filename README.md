@@ -3,14 +3,22 @@
 ### Rules
 1. Starting of 11th of November, every collaborator has to add a solved problem every day, in that certain day.
 2. Each problem has to have its prerequisite in a separate file or at the beginning of the solution.
-3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do 100 burpees.
+3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do ~~100~~ 50 burpees.
 4. Rules can be added as the challenge goes on.
 
 **Happy New Year! <3**
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
-| January 11 | :heavy_check_mark: |  |  |
+| March 17 | :x: | :heavy_check_mark:| |
+| March 16 | :x: | :heavy_check_mark:| |
+| WE | BACK | BABY | !!! |
+| BREAK |  | SESIUNE |  |
+| January 16 | :x: | :heavy_check_mark:|  |
+| January 14 | :x: | :heavy_check_mark:|  |
+| January 13 | :heavy_check_mark: | :heavy_check_mark:|  |
+| January 12 | :x: | :heavy_check_mark: |  |
+| January 11 | :heavy_check_mark: | :x: |  |
 | January 10 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
 | January 9 | :x: | :heavy_check_mark: | :no_entry_sign: |
 | January 8 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
