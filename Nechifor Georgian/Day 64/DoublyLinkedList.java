@@ -8,12 +8,7 @@ public class DoublyLinkedList {
             this.key = key;
         }
     }
-    //insert first
-    //insert last
-    //insert after key
-    //delete first
-    //delete last
-    //delete key
+
     Node head;
     public static void insertFirst(DoublyLinkedList dl, int key) {
         Node newNode = new Node(key);
@@ -81,6 +76,54 @@ public class DoublyLinkedList {
         System.out.println();
     }
 
+    public static Node deleteFirst(DoublyLinkedList dl) {
+        if(dl.head == null) return null;
+        Node head = dl.head;
+        dl.head = head.next;
+        dl.head.prev = null;
+
+        return head;
+    }
+
+    public static Node deleteLast(DoublyLinkedList dl) {
+        Node last = dl.head;
+        if(last == null) return null;
+        while(last.next != null)
+            last = last.next;
+        Node prev = last.prev;
+        last.prev = null;
+        prev.next = null;
+        return last;
+    }
+
+    public static Node deleteKey(DoublyLinkedList dl, int key) {
+        Node node = dl.head;
+        if(node == null) return null;
+        boolean deleted = false;
+        if(node.key == key) {
+            dl.head = node.next;
+            dl.head.prev = null;
+            return node;
+        }
+        while(node.next != null) {
+            if(node.key == key)  {
+                Node prev = node.prev;
+                Node next = node.next;
+                prev.next = next;
+                next.prev = prev;
+                deleted = true;
+                break;
+            }
+            node = node.next;
+        }
+        if(!deleted) {
+            if (node.key == key) {
+                node.prev.next = null;
+            }
+        }
+        return node;
+    }
+
     //for optimisation we could make an attribute last for this class
     public static void printListBackwords(DoublyLinkedList dl) {
         Node last = dl.head;
@@ -102,9 +145,15 @@ public class DoublyLinkedList {
         insertFirst(dl, 3);
         insertLast(dl, 123);
         insertLast(dl, 5);
-
         insertAfterKey(dl, 54, 10);
 
+        printList(dl);
+        printListBackwords(dl);
+        
+        deleteLast(dl);
+        deleteFirst(dl);
+
+        deleteKey(dl, 3);
         printList(dl);
         printListBackwords(dl);
     }
