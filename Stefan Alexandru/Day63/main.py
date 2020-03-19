@@ -1,3 +1,5 @@
+
+
 def read_matrix(filename):
     matrix = []
     size = 0
@@ -47,24 +49,50 @@ def add_matrix(first, second):
     return matrix
 
 
+def get_column_from_matrix(matrix, col):
+    array = []
+    for line in matrix:
+        for element in line:
+            if element[1] == col:
+                array.append(element)
+                break
+    return array
+
+
 def multiply_matrix(first, second):
     matrix = []
-
+    if size_a != size_b:
+        print('Matrix can\'t be multiplied with each other.')
+    else:
+        for _ in range(size_a):
+            matrix.append([])
+        for index_line in range(len(matrix)):
+            line_first = first[index_line]
+            for index_column in range(len(matrix)):
+                column_second = get_column_from_matrix(second, index_column)
+                new_element = 0
+                for line_elem in line_first:
+                    for col_elem in column_second:
+                        if line_elem[1] == col_elem[1]:
+                            new_element += line_elem[0] * col_elem[0]
+                if new_element != 0:
+                    matrix[index_line].append((new_element, index_column))
     return matrix
 
 
 def test_matrix_equality(first, second):
     if len(first) != len(second):
         return False
-    for line_first in first:
-        for line_second in second:
-            if len(line_first) != len(line_second):
-                return False
-            for element_first in line_first:
-                for element_second in line_second:
-                    if element_first[1] == element_second[1]:
-                        if element_first[0] != element_second[0]:
+    for index_first, line_first in enumerate(first):
+        for index_second, line_second in enumerate(second):
+            if index_first == index_second:
+                if len(line_first) != len(line_second):
+                    return False
+                for element_first in line_first:
+                    for element_second in line_second:
+                        if element_first[1] == element_second[1] and element_first[0] != element_second[0]:
                             return False
+                break
     return True
 
 
