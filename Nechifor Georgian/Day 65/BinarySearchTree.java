@@ -44,8 +44,8 @@ public class BinarySearchTree {
     }
 
     public static Node findMin(Node root) {
-        if(root == null) return null;
-        if(root.left == null) {
+        if (root == null) return null;
+        if (root.left == null) {
             System.out.println("Min key is " + root.key);
             return root;
         }
@@ -53,8 +53,8 @@ public class BinarySearchTree {
     }
 
     public static Node findMax(Node root) {
-        if(root == null) return null;
-        if(root.right == null) {
+        if (root == null) return null;
+        if (root.right == null) {
             System.out.println("Max key is " + root.key);
             return root;
         }
@@ -67,6 +67,53 @@ public class BinarySearchTree {
             preorder(bst.left);
             preorder(bst.right);
         }
+    }
+
+    public static Node delNode(Node root, int key) {
+        Node p;
+        if (root == null) return root;
+        if (key < root.key)
+            root.left = delNode(root.left, key);
+        else if (key > root.key)
+            root.right = delNode(root.right, key);
+        else {
+            if (root.left == null) {
+                p = root.right;
+                root = null;
+                return p;
+            } else if (root.right == null) {
+                p = root.left;
+                root = null;
+                return p;
+            }
+
+            p = findMin(root.right);
+            root.key = p.key;
+            root.right = delNode(root.right, p.key);
+        }
+
+        return root;
+    }
+
+    public static Node succesor(Node root) {
+        Node succ;
+        if (root == null) return root;
+        if (root.right != null) {
+            succ = findMin(root.right);
+            return succ;
+        } else {
+            return null;
+        }
+    }
+
+    public static Node predecesor(Node root) {
+        Node pre;
+        if (root == null) return null;
+        if (root.left != null) {
+            pre = findMax(root.left);
+            return pre;
+        } else
+            return null;
     }
 
     static void print2DUtil(Node root, int space) {
@@ -113,7 +160,10 @@ public class BinarySearchTree {
         findMin(bst.root);
         findMax(bst.root);
         preorder(bst.root);
-        //print2D(bst.root);
+        print2D(bst.root);
+
+        delNode(bst.root, 8);
+        print2D(bst.root);
 
 
     }
