@@ -12,10 +12,10 @@
 | :---: | :---: | :---: | :---: | :---: |
 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
 | March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu |
-| March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)|
+| March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu|
 | March 18 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)
 | March 17 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)|
-| March 16 | :x: | :heavy_check_mark:| |
+| March 16 | :x: | :heavy_check_mark:| :heavy_check_mark: proiect TW (front-end) |
 | WE | BACK | BABY | !!! |
 | BREAK |  | SESIUNE |  |
 | January 16 | :x: | :heavy_check_mark:|  |
