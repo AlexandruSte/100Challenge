@@ -8,9 +8,9 @@
 
 **Happy New Year! <3**
 
-| Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
-| :---: | :---: | :---: | :---: |
-| March 21 | | :heavy_check_mark:| |
+| Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
+| :---: | :---: | :---: | :---: | :---: |
+| March 21 | :heavy_check_mark: | :heavy_check_mark: | | |
 | March 20 | :heavy_check_mark: | :heavy_check_mark:| |
 | March 19 | :heavy_check_mark: | :heavy_check_mark:| |
 | March 18 | :heavy_check_mark: | :heavy_check_mark:| |
