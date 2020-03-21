@@ -10,6 +10,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana |
 | :---: | :---: | :---: | :---: |
+| March 21 | | :heavy_check_mark:| |
 | March 20 | :heavy_check_mark: | :heavy_check_mark:| |
 | March 19 | :heavy_check_mark: | :heavy_check_mark:| |
 | March 18 | :heavy_check_mark: | :heavy_check_mark:| |
