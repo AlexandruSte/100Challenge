@@ -10,7 +10,7 @@
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
-| March 22 | | :heavy_check_mark: | | |
+| March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | | |
 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
 | March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | |
 | March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu| |
