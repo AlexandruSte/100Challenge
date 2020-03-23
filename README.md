@@ -11,7 +11,7 @@
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 24 | |  |  | |
-| March 23 | |  | :heavy_check_mark: TW (FE) + licenta (testing classification) | |
+| March 23 | |  | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: ||
 | March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | |
 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
 | March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | |
