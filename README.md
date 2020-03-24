@@ -6,7 +6,7 @@
 3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do ~~100~~ 50 burpees.
 4. Rules can be added as the challenge goes on.
 
-**Va recomand aceste linkuri pentru a invatata algoritmi esential si structuri de date**
+**𝑽𝒂 𝒓𝒆𝒄𝒐𝒎𝒂𝒏𝒅 𝒂𝒄𝒆𝒔𝒕𝒆 𝒍𝒊𝒏𝒌𝒖𝒓𝒊 𝒑𝒆𝒏𝒕𝒓𝒖 𝒂 𝒊𝒏𝒗𝒂𝒕𝒂𝒕𝒂 𝒂𝒍𝒈𝒐𝒓𝒊𝒕𝒎𝒊 𝒆𝒔𝒆𝒏𝒕𝒊𝒂𝒍𝒊 𝒔𝒊 𝒔𝒕𝒓𝒖𝒄𝒕𝒖𝒓𝒊 𝒅𝒆 𝒅𝒂𝒕𝒆**
 
 https://www.coursera.org/learn/algorithms-part1
 
