@@ -11,7 +11,7 @@
 https://www.coursera.org/learn/algorithms-part1
 https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLQbxgIKVVeTMvk1d2IOeRjQScla9Bs0hn
 
-Poze goale cu Alex: (da scroll pana la final)
+Poze goale cu Alex: (posibile intrebari pentru interviuri)
 https://docs.google.com/document/d/1KaCh8quv7L9LDmh3w1eDF92IOhp59A-yqKr1jHC8p5Y/edit?usp=sharing
 
 𝑺𝒑𝒐𝒓 💜💜💜
