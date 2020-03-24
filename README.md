@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLQbxgIKVVeTMvk1d2IOeRjQScla9Bs
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 25 | |  |  |  | |
-| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect |  | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams)| |
+| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | |
 | March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: ||
 | March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | |
 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
