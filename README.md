@@ -6,12 +6,16 @@
 3. If a member forgets to update a problem for 2 days straight, a penalty must be applied. The member must do ~~100~~ 50 burpees.
 4. Rules can be added as the challenge goes on.
 
-**Happy New Year! <3**
+**Va recomand aceste linkuri pentru a invatata algoritmi esential si structuri de date**
+
+https://www.coursera.org/learn/algorithms-part1
+
+https://www.youtube.com/watch?v=shs0KM3wKv8&list=PLQbxgIKVVeTMvk1d2IOeRjQScla9Bs0hn
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 25 | |  |  |  | |
-| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect |  | :heavy_check_mark: | |
+| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect |  | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams)| |
 | March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: ||
 | March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | |
 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
