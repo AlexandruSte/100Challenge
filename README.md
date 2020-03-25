@@ -19,7 +19,7 @@ https://docs.google.com/document/d/1KaCh8quv7L9LDmh3w1eDF92IOhp59A-yqKr1jHC8p5Y/
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 26 | | |  |  | |
-| March 25 | :heavy_check_mark: Android | |  |  | |
+| March 25 | :heavy_check_mark: Android | | :heavy_check_mark: Android >:( |  | |
 | March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | |
 | March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: ||
 | March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | |
