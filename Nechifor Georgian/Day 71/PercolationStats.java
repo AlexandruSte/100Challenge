@@ -3,17 +3,13 @@ import edu.princeton.cs.algs4.StdStats;
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class PercolationStats {
-    private Percolation p;
     private double[] trials;
-
     private final static double VAL = 1.96;
 
     // perform independent trials on an n-by-n grid
     public PercolationStats(int n, int trials) throws IllegalArgumentException {
         if (n <= 0 || trials <= 0)
             throw new IllegalArgumentException();
-
-        this.p = new Percolation(n);
         this.trials = new double[trials];
 
     }
@@ -45,15 +41,13 @@ public class PercolationStats {
         PercolationStats percolation = new PercolationStats(n, T);
 
         for (int i = 0; i < T; i++) {
-            percolation.p = new Percolation(n);
-            boolean percolates = false;
-            while (!percolates) {
+            Percolation p = new Percolation(n);
+            while (!p.percolates()) {
                 int row = (int) (StdRandom.uniform() * n) + 1;
                 int col = (int) (StdRandom.uniform() * n) + 1;
-                percolation.p.open(row, col);
-                percolates = percolation.p.percolates();
+                p.open(row, col);
             }
-            percolation.trials[i] = (double) percolation.p.numberOfOpenSites() / (n * n);
+            percolation.trials[i] = (double) p.numberOfOpenSites() / (n * n);
         }
 
         System.out.println(n + " " + T);
