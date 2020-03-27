@@ -23,7 +23,7 @@ https://www.udacity.com/courses/all
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 28 | |  |  | | |
-| March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation |  | | |
+| March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation |  | :heavy_check_mark: | |
 | March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
 | March 25 | :heavy_check_mark: Android | :heavy_check_mark: BitStone interviu | :heavy_check_mark: Android >:( | :heavy_check_mark: | |
 | March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | |
