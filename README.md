@@ -16,6 +16,10 @@ https://docs.google.com/document/d/1KaCh8quv7L9LDmh3w1eDF92IOhp59A-yqKr1jHC8p5Y/
 
 𝑺𝒑𝒐𝒓 💜💜💜
 
+** Cei de la Udacity au facut nanodegrees gratis timp de o luna, vi le recomand foarte mult, gasiti acolo cursuri de front-end, React, Python, introducere in programare, Cloud Computing, ML, AI.**
+
+https://www.udacity.com/courses/all 
+
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
