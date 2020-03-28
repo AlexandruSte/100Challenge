@@ -1,0 +1,15 @@
+
+Operatii client: 
+- vizualiare lista proprietati disponibile pentru inchiriat
+- filtrare lista dupa pret, tip, numar camere
+- vizualizare statistici legate de locuinte: procent dupa locatie, pret, tip locuinta, numar camere (grafic - structura radiala, structura inelara, de tip coloana);
+
+Operatii angajat:
+- toate pt client
+- operatii CRUD pt locuinte si clienti (DE FACUT - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`/DELETE)
+- inchiriere locuinta pt client
+- salvare rapoarte / liste cu informatii csv, xml, json
+
+Operatii admin:
+- operatii pt client
+- CRUD pentru angajati (DE FACUT UPDATE/DELETE)
