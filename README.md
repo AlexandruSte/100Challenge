@@ -23,7 +23,7 @@ https://www.udacity.com/courses/all
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 30 | |  | | | |
-| March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | | |
+| March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
 | March 28 | :heavy_check_mark: Cloud | :heavy_check_mark: | :heavy_check_mark: Udacity React Course |:heavy_check_mark: | |
 | March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | |
 | March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
