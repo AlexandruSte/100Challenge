@@ -9,10 +9,10 @@ Operatii client:
 
 Operatii angajat:
 - toate pt client :heavy_check_mark:
-- operatii CRUD pt locuinte si clienti :heavy_check_mark: (UPDATE :x:)
+- operatii CRUD pt locuinte si clienti :heavy_check_mark: 
 - inchiriere locuinta pt client :heavy_check_mark:
 - salvare rapoarte / liste cu informatii csv, xml, json :x:
 
 Operatii admin:
 - operatii pt client :heavy_check_mark:
-- CRUD pentru angajati :heavy_check_mark: (UPDATE :x:)
+- CRUD pentru angajati :heavy_check_mark:
