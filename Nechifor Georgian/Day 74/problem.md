@@ -5,13 +5,13 @@
 Operatii client: 
 - vizualiare lista proprietati disponibile pentru inchiriat :heavy_check_mark:
 - filtrare lista dupa pret, tip, numar camere :heavy_check_mark:
-- vizualizare statistici legate de locuinte: procent dupa locatie, pret, tip locuinta, numar camere (grafic - structura radiala, structura inelara, de tip coloana); :x:
+- vizualizare statistici legate de locuinte: procent dupa locatie, pret, tip locuinta, numar camere (grafic - structura radiala, structura inelara, de tip coloana); :heavy_check_mark:
 
 Operatii angajat:
 - toate pt client :heavy_check_mark:
 - operatii CRUD pt locuinte si clienti :heavy_check_mark: 
 - inchiriere locuinta pt client :heavy_check_mark:
-- salvare rapoarte / liste cu informatii csv, xml, json :x:
+- salvare rapoarte / liste cu informatii csv, xml, json :heavy_check_mark:
 
 Operatii admin:
 - operatii pt client :heavy_check_mark:
