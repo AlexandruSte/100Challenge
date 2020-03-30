@@ -26,7 +26,7 @@ Poate va ajuta ceva de acolo :d ♥
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 31 | |  | | | |
-| March 30 | |  | | | |
+| March 30 | |  | :heavy_check_mark: Udacity React Course | | |
 | March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
 | March 28 | :heavy_check_mark: Cloud | :heavy_check_mark: | :heavy_check_mark: Udacity React Course |:heavy_check_mark: | |
 | March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | |
