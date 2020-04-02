@@ -25,7 +25,18 @@ Poate va ajuta ceva de acolo :d ♥
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
-| April 1 | | :heavy_check_mark: Coursera Algorithms | | |
+| April 13 | | | | |
+| April 12 | | | | |
+| April 11 | | | | |
+| April 10 | | | | |
+| April 9 | | | | |
+| April 8 | | | | |
+| April 7 | | | | |
+| April 6 | | | | |
+| April 5 | | | | |
+| April 4 | | | | |
+| April 3 | | | | |
+| April 2 | | :heavy_check_mark: Coursera Algorithms | | |
 | April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | |:heavy_check_mark:Proiect1 TAP(C#) |
 | March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
 | March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| 
