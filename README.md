@@ -37,7 +37,7 @@ Poate va ajuta ceva de acolo :d ♥
 | April 4 | | | | |
 | April 3 | | | | |
 | April 2 | | :heavy_check_mark: Coursera Algorithms | | |
-| April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | |:heavy_check_mark:Proiect1 TAP(C#) |
+| April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: SCA |:heavy_check_mark:Proiect1 TAP(C#) |
 | March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
 | March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| 
 | March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
