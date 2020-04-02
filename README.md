@@ -25,23 +25,23 @@ Poate va ajuta ceva de acolo :d ♥
 
 | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
-| April 1 | :---: | :heavy_check_mark: Coursera Algorithms | :---: | :---: |
-| April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | |:heavy_check_mark:Proiect1 TAP(C#) ||
-| March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | |
-| March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| |
+| April 1 | | :heavy_check_mark: Coursera Algorithms | | |
+| April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | |:heavy_check_mark:Proiect1 TAP(C#) |
+| March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
+| March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| 
 | March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
 | March 28 | :heavy_check_mark: Cloud | :heavy_check_mark: | :heavy_check_mark: Udacity React Course |:heavy_check_mark: | |
-| March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | |
+| March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | 
 | March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
 | March 25 | :heavy_check_mark: Android | :heavy_check_mark: BitStone interviu | :heavy_check_mark: Android >:( | :heavy_check_mark: | |
-| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | |
-| March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: ||
-| March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | |
-| March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | |
-| March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | |
-| March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu| |
+| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | 
+| March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: |
+| March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | 
+| March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | 
+| March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | 
+| March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu| 
 | March 18 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: TW (FE) + Android L4| |
-| March 17 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)| |
+| March 17 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)| 
 | March 16 | :x: | :heavy_check_mark:| :heavy_check_mark: proiect TW (front-end) | |
 | WE | BACK | BABY | !!! |
 | BREAK |  | SESIUNE |  |
