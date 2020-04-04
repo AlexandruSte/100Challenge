@@ -35,7 +35,7 @@ Poate va ajuta ceva de acolo :d ♥
 | April 6 | | | | |
 | April 5 | | | | |
 | April 4 | | | | |
-| April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | |:heavy_check_mark: Udacity Flying Car Course|
+| April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | :heavy_check_mark: GPC |:heavy_check_mark: Udacity Flying Car Course|
 | April 2 | | :heavy_check_mark: Coursera Algorithms | :heavy_check_mark: Udacity React Course | :heavy_check_mark:Proiect1 BD|
 | April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Android L6 |:heavy_check_mark:Proiect1 TAP(C#) |
 | March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
