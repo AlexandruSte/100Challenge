@@ -33,7 +33,7 @@ Poate va ajuta ceva de acolo :d ♥
 | April 8 | | | | |
 | April 7 | | | | |
 | April 6 | | | | |
-| April 5 | :heavy_check_mark: Android | | | |
+| April 5 | :heavy_check_mark: Android | :heavy_check_mark: Coursera| | |
 | April 4 | | |  :heavy_check_mark: GPC | |
 | April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | |:heavy_check_mark: Udacity Flying Car Course|
 | April 2 | | :heavy_check_mark: Coursera Algorithms | :heavy_check_mark: Udacity React Course | :heavy_check_mark:Proiect1 BD|
