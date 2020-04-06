@@ -32,7 +32,7 @@ Poate va ajuta ceva de acolo :d ♥
 | April 9 | | | | |
 | April 8 | | | | |
 | April 7 | | | | |
-| April 6 | | | :heavy_check_mark: CN | |
+| April 6 | | | :heavy_check_mark: CN |:heavy_check_mark: Udacity Flying Car Course |
 | April 5 | :heavy_check_mark: Android | :heavy_check_mark: Coursera| |:heavy_check_mark:Proiect1 BD |
 | April 4 | | |  :heavy_check_mark: GPC | |
 | April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | |:heavy_check_mark: Udacity Flying Car Course|
