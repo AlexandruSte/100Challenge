@@ -23,7 +23,7 @@ https://www.udacity.com/courses/all
 (っ◔◡◔)っ ♥ Check out noul folder /resources de aici
 Poate va ajuta ceva de acolo :d ♥
 
-| No| Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
+| No | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | 1 | :---: | :---: | :---: | :---: | :---: |
 | March 31 | |  | | | |
 
