@@ -23,7 +23,7 @@ https://www.udacity.com/courses/all
 (っ◔◡◔)っ ♥ Check out noul folder /resources de aici
 Poate va ajuta ceva de acolo :d ♥
 
-| No | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
+| Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
 | :---: | :---: | :---: | :---: | :---: |
 | March 31 | |  | | | |
 | March 30 | | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course | | |
