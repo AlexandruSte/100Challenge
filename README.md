@@ -24,8 +24,8 @@ https://www.udacity.com/courses/all
 Poate va ajuta ceva de acolo :d ♥
 
 | # | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
-| | | :---: | :---: | :---: | :---: | :---: |
-| 87 | | April 13 | | | | |
+|    | :---: | :---: | :---: | :---: | :---: |
+| 87 | April 13 | | | | |
 | 86 | April 12 | | | | |
 | 85 | April 11 | | | | |
 | 84 | April 10 | | | | |
