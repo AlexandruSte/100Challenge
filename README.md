@@ -23,95 +23,95 @@ https://www.udacity.com/courses/all
 (っ◔◡◔)っ ♥ Check out noul folder /resources de aici
 Poate va ajuta ceva de acolo :d ♥
 
-| Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
-| :---: | :---: | :---: | :---: | :---: |
-| April 13 | | | | |
-| April 12 | | | | |
-| April 11 | | | | |
-| April 10 | | | | |
-| April 9 | | :heavy_check_mark: Proiect PS C-S | | |
-| April 8 | | :heavy_check_mark: Proiect PS Client-Server | | :heavy_check_mark:Proiect2 BD|
-| April 7 | :heavy_check_mark: Mambu interview | :heavy_check_mark: Socketurile sunt smechere| | |
-| April 6 | | :heavy_check_mark: PS Project -> DB| :heavy_check_mark: CN |:heavy_check_mark: Udacity Flying Car Course |
-| April 5 | :heavy_check_mark: Android | :heavy_check_mark: Coursera| |:heavy_check_mark:Proiect1 BD |
-| April 4 | | |  :heavy_check_mark: GPC | |
-| April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | |:heavy_check_mark: Udacity Flying Car Course|
-| April 2 | | :heavy_check_mark: Coursera Algorithms | :heavy_check_mark: Udacity React Course | :heavy_check_mark:Proiect1 BD|
-| April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Android L6 |:heavy_check_mark:Proiect1 TAP(C#) |
-| March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
-| March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| 
-| March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
-| March 28 | :heavy_check_mark: Cloud | :heavy_check_mark: | :heavy_check_mark: Udacity React Course |:heavy_check_mark: | |
-| March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | 
-| March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
-| March 25 | :heavy_check_mark: Android | :heavy_check_mark: BitStone interviu | :heavy_check_mark: Android >:( | :heavy_check_mark: | |
-| March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | 
-| March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: |
-| March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | 
-| March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | 
-| March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | 
-| March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu| 
-| March 18 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: TW (FE) + Android L4| |
-| March 17 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)| 
-| March 16 | :x: | :heavy_check_mark:| :heavy_check_mark: proiect TW (front-end) | |
+| # | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard
+| | :---: | :---: | :---: | :---: | :---: |
+| 87 | | April 13 | | | | |
+| 86 | April 12 | | | | |
+| 85 | April 11 | | | | |
+| 84 | April 10 | | | | |
+| 83 | April 9 | | :heavy_check_mark: Proiect PS C-S | | |
+| 82 | April 8 | | :heavy_check_mark: Proiect PS Client-Server | | :heavy_check_mark:Proiect2 BD|
+| 81 | April 7 | :heavy_check_mark: Mambu interview | :heavy_check_mark: Socketurile sunt smechere| | |
+| 80 | April 6 | | :heavy_check_mark: PS Project -> DB| :heavy_check_mark: CN |:heavy_check_mark: Udacity Flying Car Course |
+| 79 | April 5 | :heavy_check_mark: Android | :heavy_check_mark: Coursera| |:heavy_check_mark:Proiect1 BD |
+| 78 | April 4 | | |  :heavy_check_mark: GPC | |
+| 77 | April 3 | :heavy_check_mark: CN | :heavy_check_mark: Stitching Images for Project | |:heavy_check_mark: Udacity Flying Car Course|
+| 76 | April 2 | | :heavy_check_mark: Coursera Algorithms | :heavy_check_mark: Udacity React Course | :heavy_check_mark:Proiect1 BD|
+| 75 | April 1 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Android L6 |:heavy_check_mark:Proiect1 TAP(C#) |
+| 74 | March 31 | | :heavy_check_mark: Proiect Sisteme Inteligente | :heavy_check_mark: Android finished L6 |:heavy_check_mark: Udacity Flying Car Course | 
+| 73 | March 30 | :heavy_check_mark: Cloud done | :heavy_check_mark: PS Done | :heavy_check_mark: Udacity React Course |:heavy_check_mark: Udacity Flying Car Course| 
+| 72 | March 29 | :heavy_check_mark: Cloud | :heavy_check_mark: Java preparing | :heavy_check_mark: Licenta recap | :heavy_check_mark:| |
+| 71 | March 28 | :heavy_check_mark: Cloud | :heavy_check_mark: | :heavy_check_mark: Udacity React Course |:heavy_check_mark: | |
+| 70 | March 27 | :heavy_check_mark: Ruby & Asm | :heavy_check_mark: Percolation | :heavy_check_mark: Udacity React Course  | :heavy_check_mark: | 
+| 69 | March 26 | | :heavy_check_mark: UnionFind |  | :heavy_check_mark: | |
+| 68 | March 25 | :heavy_check_mark: Android | :heavy_check_mark: BitStone interviu | :heavy_check_mark: Android >:( | :heavy_check_mark: | |
+| 67 | March 24 | :heavy_check_mark: Android | :heavy_check_mark: PS proiect | :heavy_check_mark: Licenta (prepared dataset) + TW (diagrams) | :heavy_check_mark: | 
+| 66 | March 23 | | :heavy_check_mark: PS | :heavy_check_mark: TW (FE) + licenta (testing classification) | :heavy_check_mark: |
+| 65 | March 22 | :heavy_check_mark: CNH4 | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) + GPC | 
+| 64 | March 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: licenta (fasttext module) | 
+| 63 | March 20 | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: eseu | 
+| 62 | March 19 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: eseu| 
+| 61 | March 18 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: TW (FE) + Android L4| |
+| 60 | March 17 | :heavy_check_mark: | :heavy_check_mark:|  :heavy_check_mark: proiect TW (front-end)| 
+| 59 | March 16 | :x: | :heavy_check_mark:| :heavy_check_mark: proiect TW (front-end) | |
 | WE | BACK | BABY | !!! |
 | BREAK |  | SESIUNE |  |
-| January 16 | :x: | :heavy_check_mark:|  |
-| January 14 | :x: | :heavy_check_mark:|  |
-| January 13 | :heavy_check_mark: | :heavy_check_mark:|  |
-| January 12 | :x: | :heavy_check_mark: |  |
-| January 11 | :heavy_check_mark: | :x: |  |
-| January 10 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
-| January 9 | :x: | :heavy_check_mark: | :no_entry_sign: |
-| January 8 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
-| January 7 | :x: | :heavy_check_mark: | :no_entry_sign: |
-| January 6 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| January 5 | :x: | :heavy_check_mark: | :x: |
-| January 4 | :x: | :heavy_check_mark: | :x: |
-| January 3 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| January 2 | :x: | :heavy_check_mark: | :x: |
+| 58 | January 16 | :x: | :heavy_check_mark:|  |
+| 57 | January 14 | :x: | :heavy_check_mark:|  |
+| 56 | January 13 | :heavy_check_mark: | :heavy_check_mark:|  |
+| 55 | January 12 | :x: | :heavy_check_mark: |  |
+| 54 | January 11 | :heavy_check_mark: | :x: |  |
+| 53 | January 10 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
+| 52 | January 9 | :x: | :heavy_check_mark: | :no_entry_sign: |
+| 51 | January 8 | :heavy_check_mark: | :heavy_check_mark: | :no_entry_sign: |
+| 50 | January 7 | :x: | :heavy_check_mark: | :no_entry_sign: |
+| 49 | January 6 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 48 | January 5 | :x: | :heavy_check_mark: | :x: |
+| 47 | January 4 | :x: | :heavy_check_mark: | :x: |
+| 46 | January 3 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 45 | January 2 | :x: | :heavy_check_mark: | :x: |
 | | HOLY | DAYS | 🎄 |
-| December 24 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| December 23 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
-| December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 17 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
-| December 16 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| December 15 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 14 | :heavy_check_mark: | :heavy_check_mark: | :x: |
-| December 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 11 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 10 | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| December 9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 8 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 7 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 6 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 4 | :heavy_check_mark: | :x: | :x: |
-| December 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| December 2 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
-| December 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 30 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 29 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 28 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 27 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 26 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 25 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 24 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 23 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 22 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 19 | :heavy_check_mark: | :heavy_check_mark: |  |
-| November 18 | :heavy_check_mark: | :heavy_check_mark: |  |
-| November 17 | :heavy_check_mark: | :x: |  |
-| November 16 | :heavy_check_mark: | :heavy_check_mark: |  |
-| November 15 | :heavy_check_mark: | :heavy_check_mark: |  |
-| November 14 | :heavy_check_mark: | :heavy_check_mark: |  |
-| November 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| November 11 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 44 | December 24 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 43 | December 23 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 42 | December 22 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 41 | December 21 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 40 | December 20 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 39 | December 19 | :heavy_check_mark: | :heavy_check_mark: |  :x: |
+| 38 | December 18 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 37 | December 17 | :heavy_check_mark: | :heavy_check_mark: |  :heavy_check_mark: |
+| 36 | December 16 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 35 | December 15 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 34 | December 14 | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| 33 | December 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 32 | December 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 31 | December 11 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 30 | December 10 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| 29 | December 9 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 28 | December 8 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 27 | December 7 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 26 | December 6 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 25 | December 5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 24 | December 4 | :heavy_check_mark: | :x: | :x: |
+| 23 | December 3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 22 | December 2 | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |
+| 21 | December 1 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 20 | November 30 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 19 | November 29 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 18 | November 28 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 17 | November 27 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 16 | November 26 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 15 | November 25 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 14 | November 24 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 13 | November 23 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 12 | November 22 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 11 | November 21 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 10 | November 20 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 9 | November 19 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 8 | November 18 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 7 | November 17 | :heavy_check_mark: | :x: |  |
+| 6 | November 16 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 5 | November 15 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 4 | November 14 | :heavy_check_mark: | :heavy_check_mark: |  |
+| 3 | November 13 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 2 | November 12 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 1 | November 11 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
