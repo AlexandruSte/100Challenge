@@ -29,7 +29,7 @@ Poate va ajuta ceva de acolo :d ♥
 | April 12 | | | | |
 | April 11 | | | | |
 | April 10 | | | | |
-| April 9 | | | | |
+| April 9 | | :heavy_check_mark: Proiect PS C-S | | |
 | April 8 | | :heavy_check_mark: Proiect PS Client-Server | | :heavy_check_mark:Proiect2 BD|
 | April 7 | :heavy_check_mark: Mambu interview | :heavy_check_mark: Socketurile sunt smechere| | |
 | April 6 | | :heavy_check_mark: PS Project -> DB| :heavy_check_mark: CN |:heavy_check_mark: Udacity Flying Car Course |
