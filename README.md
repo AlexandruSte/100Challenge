@@ -25,6 +25,18 @@ Poate va ajuta ceva de acolo :d ♥
 
 | # | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard |
 | :---: | :---: | :---: | :---: | :---: | :---: |
+| 99 | April 25 | | | | |
+| 98 | April 24 | | | | |
+| 97 | April 23 | | | | |
+| 96 | April 22 | | | | |
+| 95 | April 21 | | | | |
+| 94 | April 20 | | | | |
+| 93 | April 19 | | | | |
+| 92 | April 18 | | | | |
+| 91 | April 17 | | | | |
+| 90 | April 16 | | | | |
+| 89 | April 15 | | | | |
+| 88 | April 14 | | | | |
 | 87 | April 13 | | | | |
 | 86 | April 12 | | | | |
 | 85 | April 11 | :heavy_check_mark: Licenta boi | | :heavy_check_mark: [TW] Responsiveness | |
