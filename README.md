@@ -37,7 +37,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 90 | April 16 | | | | |
 | 89 | April 15 | | | | |
 | 88 | April 14 | | | | |
-| 87 | April 13 | :heavy_check_mark: Interviuri | | | |
+| 87 | April 13 | :heavy_check_mark: Interviuri | | :heavy_check_mark: Licenta Backend | |
 | 86 | April 12 | :heavy_check_mark: Licenta boi | | | |
 | 85 | April 11 | :heavy_check_mark: Licenta boi | :heavy_check_mark: PS | :heavy_check_mark: [TW] Responsiveness | |
 | 84 | April 10 | | :heavy_check_mark: PS Client-Server | :heavy_check_mark: Psihologie | |
