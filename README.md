@@ -36,7 +36,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 91 | April 17 | | | | |
 | 90 | April 16 | | | | |
 | 89 | April 15 | | | | |
-| 88 | April 14 | | | :heavy_check_mark: Licenta Backend | |
+| 88 | April 14 | :heavy_check_mark: Licenta boi | | :heavy_check_mark: Licenta Backend | |
 | 87 | April 13 | :heavy_check_mark: Interviuri | | :heavy_check_mark: Licenta Backend |:heavy_check_mark:Interviu |
 | 86 | April 12 | :heavy_check_mark: Licenta boi | :heavy_check_mark: PS - done | | |
 | 85 | April 11 | :heavy_check_mark: Licenta boi | :heavy_check_mark: PS | :heavy_check_mark: [TW] Responsiveness | |
