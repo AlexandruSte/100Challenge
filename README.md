@@ -34,7 +34,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 93 | April 19 | | | | |
 | 92 | April 18 | | | | |
 | 91 | April 17 | | | | |
-| 90 | April 16 | | | | |
+| 90 | April 16 | | :heavy_check_mark: Procesare Imagini | | |
 | 89 | April 15 | :heavy_check_mark: Licenta boi | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Licenta React | :heavy_check_mark:Proiect2 BD |
 | 88 | April 14 | :heavy_check_mark: Licenta boi | :heavy_check_mark: am invatat JS thx | :heavy_check_mark: Licenta Backend | |
 | 87 | April 13 | :heavy_check_mark: Interviuri | | :heavy_check_mark: Licenta Backend |:heavy_check_mark:Interviu |
