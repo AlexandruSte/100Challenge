@@ -31,7 +31,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 96 | April 22 | | | | |
 | 95 | April 21 | | | | |
 | 94 | April 20 | | | | |
-| 93 | April 19 | | | | |
+| 93 | April 19 | | | |:heavy_check_mark: |
 | 92 | April 18 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS :heavy_check_mark: Licenta <3 | |
 | 91 | April 17 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS|:heavy_check_mark: Licenta Home Page Search | |
 | 90 | April 16 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Licenta Home Page Header |:heavy_check_mark:Test TAP(C#) |
