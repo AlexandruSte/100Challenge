@@ -31,9 +31,9 @@ Poate va ajuta ceva de acolo :d ♥
 | 96 | April 22 | | | | |
 | 95 | April 21 | | | | |
 | 94 | April 20 | | | | |
-| 93 | April 19 | | | |:heavy_check_mark: |
-| 92 | April 18 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS :heavy_check_mark: Licenta <3 | |
-| 91 | April 17 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS|:heavy_check_mark: Licenta Home Page Search | |
+| 93 | April 19 | | :heavy_check_mark: | |:heavy_check_mark: |
+| 92 | April 18 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS | :heavy_check_mark: Licenta <3 | |
+| 91 | April 17 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS |:heavy_check_mark: Licenta Home Page Search | |
 | 90 | April 16 | :heavy_check_mark: SCA | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Licenta Home Page Header |:heavy_check_mark:Test TAP(C#) |
 | 89 | April 15 | :heavy_check_mark: Licenta boi | :heavy_check_mark: Procesare Imagini | :heavy_check_mark: Licenta React | :heavy_check_mark:Proiect2 BD |
 | 88 | April 14 | :heavy_check_mark: Licenta boi | :heavy_check_mark: am invatat JS thx | :heavy_check_mark: Licenta Backend | |
