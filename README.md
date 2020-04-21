@@ -29,7 +29,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 98 | April 24 | | | | |
 | 97 | April 23 | | | | |
 | 96 | April 22 | | | | |
-| 95 | April 21 | :heavy_check_mark: Licenta boi | | | |
+| 95 | April 21 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React propsss | | |
 | 94 | April 20 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React | Licenta | |
 | 93 | April 19 | | :heavy_check_mark: | |:heavy_check_mark: |
 | 92 | April 18 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS | :heavy_check_mark: Licenta <3 | |
