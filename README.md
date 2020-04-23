@@ -28,9 +28,9 @@ Poate va ajuta ceva de acolo :d ♥
 | 99 | April 25 | | | | |
 | 98 | April 24 | | | | |
 | 97 | April 23 | | | | |
-| 96 | April 22 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React | | |
+| 96 | April 22 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React |  :heavy_check_mark: Psihologie | |
 | 95 | April 21 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React propsss | |:heavy_check_mark: Proiect2 BD |
-| 94 | April 20 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React | Licenta | |
+| 94 | April 20 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React |  :heavy_check_mark: Licenta | |
 | 93 | April 19 | | :heavy_check_mark: | |:heavy_check_mark: |
 | 92 | April 18 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS | :heavy_check_mark: Licenta <3 | |
 | 91 | April 17 | :heavy_check_mark: Licenta boi | :heavy_check_mark: JS |:heavy_check_mark: Licenta Home Page Search | |
