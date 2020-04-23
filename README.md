@@ -27,7 +27,7 @@ Poate va ajuta ceva de acolo :d ♥
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 99 | April 25 | | | | |
 | 98 | April 24 | | | | |
-| 97 | April 23 | | | :heavy_check_mark: Psihologie  | |
+| 97 | April 23 | | :heavy_check_mark: React Conditional Rendering | :heavy_check_mark: Psihologie  | |
 | 96 | April 22 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React |  :heavy_check_mark: Psihologie | |
 | 95 | April 21 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React propsss | |:heavy_check_mark: Proiect2 BD |
 | 94 | April 20 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React |  :heavy_check_mark: Licenta | |
