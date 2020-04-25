@@ -25,8 +25,8 @@ Poate va ajuta ceva de acolo :d ♥
 
 | # | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 99 | April 25 | | | | |
-| 98 | April 24 | | :heavy_check_mark: | | |
+| 99 | April 25 | | :heavy_check_mark: Finish React course| | |
+| 98 | April 24 | | :heavy_check_mark: React Fetch data| | |
 | 97 | April 23 | | :heavy_check_mark: React Conditional Rendering | :heavy_check_mark: Psihologie  | |
 | 96 | April 22 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React |  :heavy_check_mark: Psihologie | |
 | 95 | April 21 | :heavy_check_mark: Licenta boi | :heavy_check_mark: React propsss | |:heavy_check_mark: Proiect2 BD |
