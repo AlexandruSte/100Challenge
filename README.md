@@ -30,7 +30,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 103 | April 29 | | | | |
 | 102 | April 28 | | | | |
 | 101 | April 27 | | | | |
-| 100 | April 26 | ☆彡(ノ^ ^)ノ 🧡 CONGRATS | BOYZ 🧡 | YAY | 🎉 ヘ(^ ^ヘ)☆彡 |
+| 100 | April 26 | ☆彡(ノ^ ^)ノ  | 🧡 CONGRATS  | BOYZ 🧡 YAY 🎉 |  ヘ(^ ^ヘ)☆彡 |
 | 99 | April 25 | :heavy_check_mark: Cloud | :heavy_check_mark: Finish React course| :heavy_check_mark:  PHP Course| |
 | 98 | April 24 | | :heavy_check_mark: React Fetch data| | |
 | 97 | April 23 | | :heavy_check_mark: React Conditional Rendering | :heavy_check_mark: Psihologie  | |
