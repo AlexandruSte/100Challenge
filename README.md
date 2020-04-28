@@ -28,7 +28,7 @@ Poate va ajuta ceva de acolo :d ♥
 | 105 | May 1 | | | | |
 | 104 | April 30 | | | | |
 | 103 | April 29 | | | | |
-| 102 | April 28 | | | :heavy_check_mark: TW Register| |
+| 102 | April 28 | | :heavy_check_mark: FreeCodeCamp | :heavy_check_mark: TW Register| |
 | 101 | April 27 | | :heavy_check_mark: Starting fresh: gaussian blur | :heavy_check_mark: TW| |
 | 100 | April 26 | ☆彡(ノ^ ^)ノ  | 🧡 CONGRATS  | BOYZ 🧡 YAY 🎉 |  ヘ(^ ^ヘ)☆彡 |
 | 99 | April 25 | :heavy_check_mark: Cloud | :heavy_check_mark: Finish React course| :heavy_check_mark:  PHP Course| |
