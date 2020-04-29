@@ -16,10 +16,6 @@ https://docs.google.com/document/d/1KaCh8quv7L9LDmh3w1eDF92IOhp59A-yqKr1jHC8p5Y/
 
 𝑺𝒑𝒐𝒓 💜💜💜
 
-** Cei de la Udacity au facut nanodegrees gratis timp de o luna, vi le recomand foarte mult, gasiti acolo cursuri de front-end, React, Python, introducere in programare, Cloud Computing, ML, AI.**
-
-https://www.udacity.com/courses/all 
-
 (っ◔◡◔)っ ♥ Check out noul folder /resources de aici
 Poate va ajuta ceva de acolo :d ♥
 
@@ -27,7 +23,7 @@ Poate va ajuta ceva de acolo :d ♥
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 105 | May 1 | | | | |
 | 104 | April 30 | | | | |
-| 103 | April 29 | :heavy_check_mark: Android | | :heavy_check_mark: Licenta Login | |
+| 103 | April 29 | :heavy_check_mark: Android | | :heavy_check_mark: Licenta Login & Register | |
 | 102 | April 28 | :heavy_check_mark: Cloud | :heavy_check_mark: FreeCodeCamp | :heavy_check_mark: TW Register| |
 | 101 | April 27 | :heavy_check_mark: Cloud | :heavy_check_mark: Starting fresh: gaussian blur | :heavy_check_mark: TW| |
 | 100 | April 26 | ☆彡(ノ^ ^)ノ  | 🧡 CONGRATS  | BOYZ 🧡 YAY 🎉 |  ヘ(^ ^ヘ)☆彡 |
