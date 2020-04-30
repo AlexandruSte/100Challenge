@@ -22,7 +22,7 @@ Poate va ajuta ceva de acolo :d ♥
 | # | Day | Stefan Alexandru | Nechifor Georgian | Paduraru Dana | Iacob Eduard |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 105 | May 1 | | | | |
-| 104 | April 30 | | :heavy_check_mark: Finish Responsive freeCodeCamp | | |
+| 104 | April 30 | | :heavy_check_mark: Finished Responsive freeCodeCamp | | |
 | 103 | April 29 | :heavy_check_mark: Android | :heavy_check_mark: FreeCodeCamp | :heavy_check_mark: Licenta Login & Register | |
 | 102 | April 28 | :heavy_check_mark: Cloud | :heavy_check_mark: FreeCodeCamp | :heavy_check_mark: TW Register| |
 | 101 | April 27 | :heavy_check_mark: Cloud | :heavy_check_mark: Starting fresh: gaussian blur | :heavy_check_mark: TW| |
